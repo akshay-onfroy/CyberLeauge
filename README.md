@@ -23,3 +23,14 @@ Your challenge is simple: **break the field, chase the flags.**
 4. When you find the flag, hold it high—it’s the winning wicket!
 
 ---
+
+## Hint 🕵️‍♂️
+
+Flags have a funny habit of leaving footprints even after they’ve been “erased.”  
+Just like a batsman’s edge that leaves a faint mark on the snickometer,  
+**the history of every delivery in Git is still there, ball by ball.**  
+
+If the current file looks too clean, try rolling back the overs.  
+Sometimes the *first scoreboard* tells more than the final one.  
+
+---
