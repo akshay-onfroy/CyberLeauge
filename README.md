@@ -34,3 +34,9 @@ If the current file looks too clean, try rolling back the overs.
 Sometimes the *first scoreboard* tells more than the final one.  
 
 ---
+### Reminder
+- Don’t brute force. 
+- Don’t overcomplicate. 
+- Think like a commentator: look for what changed between the overs.
+---
+**Break the field. Chase the flags. Win the match.**
